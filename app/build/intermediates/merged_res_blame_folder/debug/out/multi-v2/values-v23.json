@@ -4,7 +4,7 @@
             "outputFile": "com.example.pokemon.app-mergeDebugResources-28:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\berze\\.gradle\\caches\\transforms-3\\8dfa01e26e3a1ce0f11a38ffb7d7a3c4\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\3b8e43298f87263936452c42fdf1541a\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\berze\\.gradle\\caches\\transforms-3\\4fbcf167c94e837ff1be43cd429a082f\\transformed\\material-1.8.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\e1cae08706936cdd3459cbc234ef3e1f\\transformed\\material-1.8.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\berze\\.gradle\\caches\\transforms-3\\bf77ad590024d0e14c0f8c0505794694\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\5fa9a25b7ee1917dde6f9f16cb4188ed\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -4,13 +4,13 @@
             "outputFile": "com.example.pokemon.app-mergeDebugResources-28:/values-ru-rRU/values-ru-rRU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\berze\\Desktop\\PokemonApp\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
+                    "source": "C:\\Users\\rafael.kampa\\Documents\\pokemon\\app\\src\\main\\res\\values-ru-rRU\\strings.xml",
                     "from": {
                         "startLines": "2,7,3,10,4,6,9,5,8",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,289,101,482,139,233,403,195,349",
+                        "startOffsets": "57,296,104,492,143,239,412,200,357",
                         "endColumns": "45,59,37,56,55,55,78,37,53",
-                        "endOffsets": "96,344,134,534,190,284,477,228,398"
+                        "endOffsets": "98,351,137,544,194,290,486,233,406"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10",

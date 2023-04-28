@@ -4,7 +4,7 @@
             "outputFile": "com.example.pokemon.app-mergeDebugResources-28:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\berze\\.gradle\\caches\\transforms-3\\8dfa01e26e3a1ce0f11a38ffb7d7a3c4\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\3b8e43298f87263936452c42fdf1541a\\transformed\\appcompat-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\berze\\.gradle\\caches\\transforms-3\\4fbcf167c94e837ff1be43cd429a082f\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\e1cae08706936cdd3459cbc234ef3e1f\\transformed\\material-1.8.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

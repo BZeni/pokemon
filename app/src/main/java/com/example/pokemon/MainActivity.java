@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
                 if (checkUserPass == true){
                     Intent i = new Intent(MainActivity.this, PokemonActivity.class);
                     startActivity(i);
+                } else {
+                    Toast.makeText(MainActivity.this, "Usuário ou senha incorreta", Toast.LENGTH_SHORT).show();
                 }
             }
         });

@@ -31,16 +31,36 @@
                 android:id="@+id/etUser"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="User"/>
+                android:hint="User"
+                android:minHeight="48dp"
+                android:textColor="@color/white"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:outlineProvider="bounds"
+                android:outlineSpotShadowColor="@android:color/black"
+                android:shadowColor="@android:color/black"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="1"/>
 
             <EditText
                 android:id="@+id/etPass"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
-                android:hint="Senha"
                 android:ems="10"
-                android:inputType="textPassword"/>
+                android:hint="Senha"
+                android:inputType="textPassword"
+                android:minHeight="48dp"
+                android:textColor="@color/white"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:outlineProvider="bounds"
+                android:outlineSpotShadowColor="@android:color/black"
+                android:shadowColor="@android:color/black"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="1"/>
 
             <Button
                 android:id="@+id/btnIniciar"
