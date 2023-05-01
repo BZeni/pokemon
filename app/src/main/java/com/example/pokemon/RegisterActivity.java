@@ -44,7 +44,6 @@ public class RegisterActivity extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 String user = etUser.getText().toString();
                 String password = etPass.getText().toString();
                 String rePassword = etRepass.getText().toString();

@@ -11,13 +11,13 @@ import androidx.annotation.Nullable;
 public class DBHelper extends SQLiteOpenHelper {
 
     public DBHelper( Context context) {
-        super(context,"Login.db",null,1);
+        super(context,"Pokedex.db",null,1);
     }
 
     @Override
     public void onCreate(SQLiteDatabase myDB) {
 
-        myDB.execSQL("create table users(username Text primary key, password Text)");
+        myDB.execSQL("create table users(id Integer primary key autoincrement, username Text, password Text)");
 
     }
 
