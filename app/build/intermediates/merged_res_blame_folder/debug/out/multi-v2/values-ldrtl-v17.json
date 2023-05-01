@@ -4,7 +4,7 @@
             "outputFile": "com.example.pokemon.app-mergeDebugResources-28:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\e1cae08706936cdd3459cbc234ef3e1f\\transformed\\material-1.8.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-3\\e1cae08706936cdd3459cbc234ef3e1f\\transformed\\material-1.8.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

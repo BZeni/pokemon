@@ -4,7 +4,7 @@
             "outputFile": "com.example.pokemon.app-mergeDebugResources-28:/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rafael.kampa\\.gradle\\caches\\transforms-3\\3b8e43298f87263936452c42fdf1541a\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "source": "C:\\Users\\rafae\\.gradle\\caches\\transforms-3\\3b8e43298f87263936452c42fdf1541a\\transformed\\appcompat-1.6.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
