@@ -1,4 +1,4 @@
-#Mon May 01 17:18:03 BRT 2023
+#Mon May 01 20:30:17 BRT 2023
 base.2=C\:\\Users\\rafae\\AndroidProjects\\pokemon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
 path.2=4/classes.dex
 base.1=C\:\\Users\\rafae\\AndroidProjects\\pokemon\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

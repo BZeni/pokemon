@@ -9,8 +9,9 @@ import androidx.appcompat.app.AppCompatActivity;
         import android.net.Uri;
         import android.os.Bundle;
         import android.view.View;
+import android.widget.Button;
 
-        import com.android.volley.Request;
+import com.android.volley.Request;
         import com.android.volley.RequestQueue;
         import com.android.volley.toolbox.JsonObjectRequest;
         import com.android.volley.toolbox.Volley;
@@ -27,6 +28,7 @@ public class PokemonActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     private PokemonAdapter adapter;
     private RequestQueue requestQueue;
+    DBHelper db;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -40,6 +42,7 @@ public class PokemonActivity extends AppCompatActivity {
 
         requestQueue = Volley.newRequestQueue(this);
         String url = "https://pokeapi.co/api/v2/pokemon?limit=151";
+        Integer[] pokemonsFavoritos = db.buscarFavoritos(db.idLogado);
         JsonObjectRequest request = new JsonObjectRequest(Request.Method.GET, url, null,
                 response -> {
                     try {
@@ -69,10 +72,14 @@ public class PokemonActivity extends AppCompatActivity {
                                             for (int j = 0; j < typesArray.length(); j++) {
                                                 types.add(typesArray.getJSONObject(j).getJSONObject("type").getString("name"));
                                             }
-
                                             Pokemon pokemon = new Pokemon(name, id, imageUrl, types, weight, height, stat0, stat1, stat2, stat3, stat4, stat5);
-                                            pokemonList.add(pokemon);
-                                            adapter.notifyDataSetChanged();
+
+                                            for (int x = 0; x < pokemonsFavoritos.length; x++) {
+                                                if (pokemonsFavoritos[x] == pokemon.getId()) {
+                                                    pokemonList.add(pokemon);
+                                                    adapter.notifyDataSetChanged();
+                                                }
+                                            }
                                         } catch (JSONException e) {
                                             e.printStackTrace();
                                         }

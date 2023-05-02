@@ -23,6 +23,7 @@ drawable rounded_text
 drawable rounded_text_2
 drawable user
 id PerfomanceTextView
+id btnFavorito
 id btnIniciar
 id btnRegister
 id button
@@ -62,6 +63,8 @@ layout item_pokemon
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string favorito
+string favoritoImg
 string list_of_pokemons
 string name
 string pokeapi_webpage

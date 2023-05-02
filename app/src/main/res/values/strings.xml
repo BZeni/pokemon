@@ -16,4 +16,6 @@
     <string name="welcome">Welcome!</string>
     <string name="see_the_list_of_pokemons">See the list of pokemons</string>
     <string name="pokeapi_webpage">PokeApi WebPage</string>
+    <string name="favorito">Favorito</string>
+    <string name="favoritoImg">FavoritoImg</string>
 </resources>

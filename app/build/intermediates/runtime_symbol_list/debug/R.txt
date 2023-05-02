@@ -2914,6 +2914,7 @@ int id bounce 0x7f08005f
 int id bounceBoth 0x7f080060
 int id bounceEnd 0x7f080061
 int id bounceStart 0x7f080062
+int id btnFavorito 0x7f08020c
 int id btnIniciar 0x7f080063
 int id btnRegister 0x7f080064
 int id button 0x7f080065
@@ -3575,6 +3576,8 @@ int string error_icon_content_description 0x7f0f0029
 int string exposed_dropdown_menu_content_description 0x7f0f002a
 int string fab_transformation_scrim_behavior 0x7f0f002b
 int string fab_transformation_sheet_behavior 0x7f0f002c
+int string favorito 0x7f0f00ab
+int string favoritoImg 0x7f0f00ac
 int string hide_bottom_view_on_scroll_behavior 0x7f0f002d
 int string icon_content_description 0x7f0f002e
 int string item_view_role_description 0x7f0f002f
