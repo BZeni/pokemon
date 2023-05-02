@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     EditText etPass;
     Button btnIniciar;
     TextView tvRegister;
-    public int idLogado;
 
     DBHelper db;
 
@@ -50,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
                 Boolean checkUserPass = db.checkUserPass(user, password);
 
                 if (checkUserPass == true){
-                    idLogado = db.obterIdLogado(user);
                     Intent i = new Intent(MainActivity.this, PokemonActivity.class);
                     startActivity(i);
                 } else {

@@ -33,6 +33,7 @@ public class PokemonActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        db = new DBHelper(this);
         setContentView(R.layout.activity_pokemon);
 
         recyclerView = findViewById(R.id.recycler_view);
