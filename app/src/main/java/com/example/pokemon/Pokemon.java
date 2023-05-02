@@ -40,6 +40,9 @@ public class Pokemon {
         this.Stat5 = Stat5;
     }
 
+    public Pokemon() {
+    }
+
     public String getName() {
         return name;
     }

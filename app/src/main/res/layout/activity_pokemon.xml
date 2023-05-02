@@ -28,14 +28,30 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/title"
-        android:layout_marginTop="12dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
         android:background="@drawable/rounded_button"
         android:onClick="GoToPokeApi"
         android:text="@string/pokeapi_webpage"
         android:textColor="#FFFFFF"
         app:backgroundTint="@null"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title" />
+
+    <Button
+        android:id="@+id/verFavoritos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/title"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/rounded_button"
+        android:onClick="GoToPokeApi"
+        android:text="Ver Favoritos"
+        android:textColor="#FFFFFF"
+        app:backgroundTint="@null"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.764"
+        app:layout_constraintStart_toEndOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/title" />
 
     <androidx.recyclerview.widget.RecyclerView

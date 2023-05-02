@@ -88,6 +88,21 @@ public class DBHelper extends SQLiteOpenHelper {
         }
     }
 
+    public Boolean removerFavorito(Integer idUsuario, Integer idPokemon){
+
+        SQLiteDatabase myDB = this.getWritableDatabase();
+        ContentValues contentValues = new ContentValues();
+        contentValues.put("idUsuario",idUsuario);
+        contentValues.put("idPokemon", idPokemon);
+        long result = myDB.delete("favoritos","where idUsuario = ? and idPokemon = ?",new String[]{idUsuario.toString(), idPokemon.toString()});
+
+        if (result == -1){
+            return false;
+        } else {
+            return true;
+        }
+    }
+
     public Integer[] buscarFavoritos(int userId) {
         SQLiteDatabase myDB = this.getWritableDatabase();
         Integer[] listaPokemon = new Integer[] {};

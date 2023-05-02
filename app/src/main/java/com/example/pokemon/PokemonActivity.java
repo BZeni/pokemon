@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
         import android.os.Bundle;
         import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 
 import com.android.volley.Request;
         import com.android.volley.RequestQueue;
@@ -24,10 +25,13 @@ import com.android.volley.Request;
         import java.util.List;
 
 public class PokemonActivity extends AppCompatActivity {
-    private List<Pokemon> pokemonList = new ArrayList<>();
+    public static List<Pokemon> pokemonList = new ArrayList<>();
+    public static List<Pokemon> favoritesPokemonsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private PokemonAdapter adapter;
     private RequestQueue requestQueue;
+    Button verFavoritos;
+    Boolean telaFavoritos = false;
     DBHelper db;
 
     @Override
@@ -35,7 +39,7 @@ public class PokemonActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         db = new DBHelper(this);
         setContentView(R.layout.activity_pokemon);
-
+        verFavoritos = findViewById(R.id.verFavoritos);
         recyclerView = findViewById(R.id.recycler_view);
         adapter = new PokemonAdapter(pokemonList);
         recyclerView.setAdapter(adapter);
@@ -75,12 +79,23 @@ public class PokemonActivity extends AppCompatActivity {
                                             }
                                             Pokemon pokemon = new Pokemon(name, id, imageUrl, types, weight, height, stat0, stat1, stat2, stat3, stat4, stat5);
 
-                                            for (int x = 0; x < pokemonsFavoritos.length; x++) {
-                                                if (pokemonsFavoritos[x] == pokemon.getId()) {
-                                                    pokemonList.add(pokemon);
-                                                    adapter.notifyDataSetChanged();
+                                            verFavoritos.setOnClickListener(new View.OnClickListener() {
+                                                @Override
+                                                public void onClick(View view) {
+                                                    telaFavoritos = !telaFavoritos;
+                                                    if(telaFavoritos) {
+                                                        for (int x = 0; x < pokemonsFavoritos.length; x++) {
+                                                            if (pokemonsFavoritos[x] == pokemon.getId()) {
+                                                                pokemonList.add(pokemon);
+                                                                adapter.notifyDataSetChanged();
+                                                            }
+                                                        }
+                                                    } else {
+                                                        pokemonList.add(pokemon);
+                                                    }
                                                 }
-                                            }
+                                            });
+                                            adapter.notifyDataSetChanged();
                                         } catch (JSONException e) {
                                             e.printStackTrace();
                                         }
