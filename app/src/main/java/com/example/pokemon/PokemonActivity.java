@@ -78,12 +78,20 @@ public class PokemonActivity extends AppCompatActivity {
                                                 types.add(typesArray.getJSONObject(j).getJSONObject("type").getString("name"));
                                             }
                                             Pokemon pokemon = new Pokemon(name, id, imageUrl, types, weight, height, stat0, stat1, stat2, stat3, stat4, stat5);
+                                            pokemonList.add(pokemon);
+                                            adapter.notifyDataSetChanged();
+
 
                                             verFavoritos.setOnClickListener(new View.OnClickListener() {
                                                 @Override
                                                 public void onClick(View view) {
-                                                    telaFavoritos = !telaFavoritos;
-                                                    if(telaFavoritos) {
+                                                    if (!telaFavoritos) {
+                                                        telaFavoritos = true;
+                                                    } else {
+                                                        telaFavoritos = false;
+                                                    }
+                                                    if (telaFavoritos){
+                                                        pokemonList.clear();
                                                         for (int x = 0; x < pokemonsFavoritos.length; x++) {
                                                             if (pokemonsFavoritos[x] == pokemon.getId()) {
                                                                 pokemonList.add(pokemon);
@@ -91,7 +99,9 @@ public class PokemonActivity extends AppCompatActivity {
                                                             }
                                                         }
                                                     } else {
+                                                        pokemonList.clear();
                                                         pokemonList.add(pokemon);
+                                                        adapter.notifyDataSetChanged();
                                                     }
                                                 }
                                             });

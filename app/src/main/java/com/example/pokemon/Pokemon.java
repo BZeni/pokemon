@@ -23,6 +23,7 @@ public class Pokemon {
 
     private List<String> stats;
     private String description;
+    private Boolean favorite;
 
     public Pokemon(String name, int id, String imageUrl, List<String> types, String weight, String height, String Stat0, String Stat1, String Stat2, String Stat3, String Stat4, String Stat5) {
         this.name = name;
@@ -105,5 +106,13 @@ public class Pokemon {
         intent.putExtra("Stat5", Stat5);
 
         return intent;
+    }
+
+    public void setFavorite(Boolean favorite) {
+        this.favorite = favorite;
+    }
+
+    public Boolean getFavorite() {
+        return favorite;
     }
 }

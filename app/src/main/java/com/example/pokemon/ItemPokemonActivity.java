@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.Switch;
 import android.widget.TextView;
@@ -25,20 +26,21 @@ public class ItemPokemonActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.item_pokemon);
         db = new DBHelper(this);
         pokemonActivity = new PokemonActivity();
         List<Pokemon> pokemons = pokemonActivity.pokemonList;
-        setContentView(R.layout.item_pokemon);
         btnFavorito = findViewById(R.id.btnFavorito);
         name_text_view = findViewById(R.id.name_text_view);
 
-        btnFavorito.setOnClickListener(new View.OnClickListener() {
+        btnFavorito.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
-            public void onClick(View view) {
-                boolean isChecked = btnFavorito.isChecked();
+            public void onCheckedChanged(CompoundButton compoundButton, boolean isChecked) {
+                isChecked = btnFavorito.isChecked();
                 if (isChecked){
                     for (int x = 0; x < pokemons.size(); x++) {
                         if (pokemons.get(x).getName().equals(name_text_view.getText())) {
+//                            pokemons.get(x).setFavorite(true);
                             db.inserirNovoFavorito(db.idLogado, pokemons.get(x).getId());
                             break;
                         }

@@ -3321,6 +3321,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id verFavoritos
 id vertical_only
 id view_offset_helper
 id view_transition

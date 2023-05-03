@@ -53,6 +53,7 @@ id tvIniciar
 id tvRegister
 id typeChipGroup
 id type_chip_group
+id verFavoritos
 id weightText
 id weightTextnumber
 layout activity_main

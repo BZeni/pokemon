@@ -24,51 +24,55 @@
             android:background="@drawable/user"/>
 
         <LinearLayout
-            android:layout_marginTop="50dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
             android:orientation="vertical">
 
             <EditText
                 android:id="@+id/etUserReg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="User"/>
+                android:hint="User"
+                android:minHeight="48dp" />
 
             <EditText
                 android:id="@+id/etPassReg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
-                android:hint="Senha"
                 android:ems="10"
-                android:inputType="textPassword"/>
+                android:hint="Senha"
+                android:inputType="textPassword"
+                android:minHeight="48dp" />
 
             <EditText
                 android:id="@+id/etPassReg2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
-                android:hint="Repita a senha"
                 android:ems="10"
-                android:inputType="textPassword"/>
+                android:hint="Repita a senha"
+                android:inputType="textPassword"
+                android:minHeight="48dp" />
 
             <Button
                 android:id="@+id/btnRegister"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
+                android:minHeight="48dp"
                 android:text="Register"
-                android:textSize="20dp"/>
+                android:textSize="20dp" />
 
             <TextView
                 android:id="@+id/tvIniciar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
                 android:text="Já possui conta? Toque Aqui"
                 android:textAlignment="center"
-                android:layout_marginTop="30dp"
-                android:textStyle="bold"/>
+                android:textStyle="bold" />
 
         </LinearLayout>
 

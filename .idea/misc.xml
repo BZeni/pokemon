@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/rafael.kampa/Documents/GitHub/pokemon/app/src/main/res/layout/activity_main.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/rafael.kampa/Documents/GitHub/pokemon/app/src/main/res/layout/activity_pokemon.xml" value="0.1" />
+        <entry key="..\:/Users/rafael.kampa/Documents/GitHub/pokemon/app/src/main/res/layout/activity_pokemon_detail.xml" value="0.1" />
+        <entry key="..\:/Users/rafael.kampa/Documents/GitHub/pokemon/app/src/main/res/layout/item_pokemon.xml" value="0.22" />
         <entry key="..\:/Users/rafael.kampa/Documents/pokemon/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>

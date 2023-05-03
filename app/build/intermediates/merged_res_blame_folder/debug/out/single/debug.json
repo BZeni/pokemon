@@ -56,6 +56,10 @@
         "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_text_2.xml"
     },
     {
+        "merged": "com.example.pokemon.app-merged_res-30:/layout_item_pokemon.xml.flat",
+        "source": "com.example.pokemon.app-main-32:/layout/item_pokemon.xml"
+    },
+    {
         "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_button.xml.flat",
         "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_button.xml"
     },
@@ -138,9 +142,5 @@
     {
         "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_background.jpg.flat",
         "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\background.jpg"
-    },
-    {
-        "merged": "com.example.pokemon.app-merged_res-30:/layout_activity_main.xml.flat",
-        "source": "com.example.pokemon.app-main-32:/layout/activity_main.xml"
     }
 ]
