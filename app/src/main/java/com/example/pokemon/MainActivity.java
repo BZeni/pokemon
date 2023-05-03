@@ -44,7 +44,6 @@ public class MainActivity extends AppCompatActivity {
         btnIniciar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 String user = etUser.getText().toString();
                 String password = etPass.getText().toString();
                 Boolean checkUserPass = db.checkUserPass(user, password);

@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class RegisterActivity extends AppCompatActivity {
 
@@ -44,7 +43,6 @@ public class RegisterActivity extends AppCompatActivity {
         btnRegister.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 String user = etUser.getText().toString();
                 String password = etPass.getText().toString();
                 String rePassword = etRepass.getText().toString();
@@ -52,7 +50,7 @@ public class RegisterActivity extends AppCompatActivity {
                 if (password.equals(rePassword)) {
                     Boolean checker = db.checkUsername(user);
                     if (checker == false) {
-                        Boolean insert = db.insertData(user, password);
+                        Boolean insert = db.insertNewUser(user, password);
                         if (insert == true) {
                             Intent i = new Intent(getApplicationContext(), MainActivity.class);
                             startActivity(i);

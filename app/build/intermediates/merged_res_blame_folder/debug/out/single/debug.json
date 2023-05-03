@@ -1,146 +1,146 @@
 [
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_text.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_text.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_pokemon_detail.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_pokemon_detail.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate5.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate5.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_user.png.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\user.png"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_pokemon.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_pokemon.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.pokemon.app-merged_res-30:/layout_activity_pokemon_detail.xml.flat",
-        "source": "com.example.pokemon.app-main-32:/layout/activity_pokemon_detail.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_pokemon.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_pokemon.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_pokemon_detail.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_pokemon_detail.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate3.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate3.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_indeterminate.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_indeterminate.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_text_2.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_text_2.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_button.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_button.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate5.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate5.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_text_2.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_text_2.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.pokemon.app-merged_res-30:/layout_item_pokemon.xml.flat",
+        "source": "com.example.pokemon.app-main-32:/layout/item_pokemon.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_button.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate2.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate2.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_user.png.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\user.png"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_rounded_text.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\rounded_text.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_background.jpg.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\background.jpg"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate6.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate6.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_item_pokemon.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\item_pokemon.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate2.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate2.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate4.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate4.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v33\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_background_2.jpg.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\background_2.jpg"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_background_2.jpg.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\background_2.jpg"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_indeterminate.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_indeterminate.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate4.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate4.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate6.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate6.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_progress_bar_determinate3.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\progress_bar_determinate3.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\layout_item_pokemon.xml.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\layout\\item_pokemon.xml"
     },
     {
-        "merged": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\rafae\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-merged_res-30:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\rafael.kampa\\.gradle\\daemon\\7.5\\com.example.pokemon.app-main-32:\\drawable\\background.jpg"
     }
 ]

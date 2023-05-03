@@ -8,6 +8,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Pokemon App</string>
+    <string name="favorito">Favorito</string>
+    <string name="favoritoImg">FavoritoImg</string>
     <string name="list_of_pokemons">List of Pokemons</string>
     <string name="name">Name:</string>
     <string name="pokeapi_webpage">PokeApi WebPage</string>
